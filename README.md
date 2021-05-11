@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cooliofeat (Aaron)
 - 👀 I’m interested in Machine Learning, AI, Data Analytics, FinTech.
-- 🌱 I’m currently learning how to code a algorithmic cryptocurrency trading bot.
+- 🌱 I’m currently learning how to code an algorithmic cryptocurrency trading bot.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me https://twitter.com/Cooliofeat
 
